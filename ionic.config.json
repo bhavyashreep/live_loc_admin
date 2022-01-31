@@ -1,0 +1,7 @@
+{
+    "name": "Live Location",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

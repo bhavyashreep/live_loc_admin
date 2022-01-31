@@ -1,0 +1,20 @@
+{
+  "appId": "com.liveLocation.techbyheart",
+  "appName": "Live Location ",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "PushNotifications": {
+      "presentationOptions": [
+        "badge",
+        "sound",
+        "alert"
+      ]
+    }
+  },
+  "cordova": {}
+}

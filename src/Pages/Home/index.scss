@@ -1,0 +1,26 @@
+.home {
+  // background: black;
+  height: 100vh;
+  color: rgb(230, 155, 5);
+  padding: 100px 24px;
+}
+table {
+  width: 100%;
+}
+.logBtn {
+    width: 80%;
+    height: 46px;
+    border-radius: 12px;
+    background: rgb(230, 155, 5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(230, 155, 5);
+    margin: 5px;
+    font-family: FS Siena;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: black;
+  }
