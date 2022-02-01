@@ -38,8 +38,8 @@ export default function Home() {
     },
     
     {
-      title: 'Action',
-      key: 'action',
+      title: 'Location',
+      key: 'location',
       render: (record) => (
         <div className="map">
         <iframe
